@@ -2,7 +2,7 @@
 import React from 'react';
 import './Home.css';
 
-const Hero = () => {
+const Home = () => {
   return (
     <section className="hero" id="hero">
       <div className="hero-content">
@@ -19,4 +19,4 @@ const Hero = () => {
   );
 };
 
-export default Hero;
+export default Home;
