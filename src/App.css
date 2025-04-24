@@ -1,0 +1,34 @@
+/* App.css */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #020617;
+    color: #e2e8f0;
+    scroll-behavior: smooth;
+}
+
+.App {
+    padding-top: 70px; /* space for fixed navbar */
+}
+
+main {
+    overflow-x: hidden;
+}
+
+section {
+    min-height: 100vh;
+}
+/* App.css */
+section {
+    min-height: 80vh; /* reduce height for sections to fit better */
+    padding: 3rem 0; /* adjust vertical padding */
+}
+
+main {
+    overflow-x: hidden;
+}
+/* App.css */
+#home {
+    margin-top: 80px; /* adjust the margin to match your navbar height */
+}

@@ -1,0 +1,43 @@
+/* Contact.css */
+.contact {
+    background-color: #0f172a;
+    color: #e2e8f0;
+    padding: 6rem 2rem;
+    text-align: center;
+}
+
+.contact-content {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.section-title {
+    font-size: 2rem;
+    color: #38bdf8;
+    margin-bottom: 1.5rem;
+}
+
+.contact-content p {
+    font-size: 1rem;
+    color: #cbd5e1;
+    margin-bottom: 2rem;
+}
+
+.contact-list {
+    list-style: none;
+    padding: 0;
+}
+
+    .contact-list li {
+        margin-bottom: 1rem;
+        font-size: 1rem;
+    }
+
+    .contact-list a {
+        color: #38bdf8;
+        text-decoration: none;
+    }
+
+        .contact-list a:hover {
+            text-decoration: underline;
+        }
